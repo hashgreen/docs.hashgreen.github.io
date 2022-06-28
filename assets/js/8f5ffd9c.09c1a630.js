@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[4556],{8133:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/cryptocurrency","name":"cryptocurrency","count":16,"permalink":"/blog/tags/cryptocurrency"}')}}]);

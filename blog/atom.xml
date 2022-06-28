@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.hash.green/blog</id>
+    <title>Hashgreen Blog</title>
+    <updated>2022-06-28T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.hash.green/blog"/>
+    <subtitle>Hashgreen Blog</subtitle>
+    <icon>https://docs.hash.green/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Weekly Update #14]]></title>
+        <id>/weekly-update-14</id>
+        <link href="https://docs.hash.green/blog/weekly-update-14"/>
+        <updated>2022-06-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hashgreen updates on: i18n project for DEX.]]></summary>
+        <content type="html"><![CDATA[<p><img src="./assets/banner.png" alt="banner"/></p><h2>What&#x27;s Been Done</h2><p>Welcome back to another weekly update for <a href="https://www.hashgreen.net/">Hashgreen</a>! It&#x27;s been a great week continuously developing our product, and this week we are going to give you an update on the translation project for <a href="https://hash.green/">Hashgreen DEX</a> and also some random updates of Hashgreen! </p><ul><li><p>Hashgreen members were having a monthly meet last Friday! Monthly meets are one of the great ways to keep everyone connected, especially when the members are all working remotely. </p></li><li><p>We are going to have an office space in Taipei! </p></li></ul><h3>Updates on the i18n project for Hashgreen DEX</h3><ul><li><p>Last week, we began the translation project for Hashgreen DEX using <a href="https://crowdin.com/">Crowdin</a>, a cloud-based localization management platform that enables both collaborative translation and management, and we&#x27;re lucky to have multiple volunteer translators to help us with our product.
+So far, we&#x27;ve had 11 project members assisting us with the project and in total 9 languages listed to be translated. </p></li><li><p>Again, we are constantly looking for volunteer translators or proofreaders to help us, so if you are interested in it, please don&#x27;t hesitate to contact us via <a href="mailto:contact@hashgreen.net">contact@hashgreen.net</a> or visit our <a href="https://discord.com/invite/KXvqv6cwAk">Discord</a> for more information.</p></li><li><p>For translators and proofreaders, we prepared a tutorial and some guidelines on how to complete the translation and what they should pay attention to when translating.
+Below are general explanations to the process of translation:</p><ol><li><strong>Achieving &quot;conceptual equivalence&quot; in each of the source and target languages.</strong><br/>The translation should convey the same meaning as the source language, and it should also remain natural and acceptable in the target language.</li><li><strong>Limited length of source string due to the design of the interface.</strong><br/>Try not to let the translation surpass the original text length. </li><li><strong>Completion rate of translation above 95% is the parameter.</strong><br/>The translator should complete at least 95% of the translation, otherwise the translation will not be updated to our DEX. We will update languages that meet the parameter on a periodic basis.</li></ol></li><li><p>Your assistance is always one of the most precious things that we deeply appreciate, and in order to express our gratitude, there might be some random surprises given to those who help us with the translation project. 😜</p></li></ul>]]></content>
+        <author>
+            <name>J.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Update #13]]></title>
+        <id>/weekly-update-13</id>
+        <link href="https://docs.hash.green/blog/weekly-update-13"/>
+        <updated>2022-06-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hashgreen updates on: live market trading chart and language switch option.]]></summary>
+        <author>
+            <name>J.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Update #12]]></title>
+        <id>/weekly-update-12</id>
+        <link href="https://docs.hash.green/blog/weekly-update-12"/>
+        <updated>2022-06-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hashgreen updates on: recap of AMA at Chia in Chia and committed and uncommitted offers.]]></summary>
+        <content type="html"><![CDATA[<p><img src="./assets/banner.png" alt="banner"/></p><p>Welcome back to another Hashgreen&#x27;s weekly update! Previously on <a href="https://docs.hash.green/blog/weekly-update-11">Weekly Update #11</a> we talked about the design features that began to take shape for the AMM, hankering for the best outcome to our users and to the ecosystem. We also announced a few updates and a call for volunteer translators. If you are willing to help with the translation, please visit our <a href="https://discord.com/invite/KXvqv6cwAk">Discord</a>.</p><p>This week we will be taking you through two topics: the AMA we attended earlier this June and our thought and expectation for offer2 according to the feedback from the community.</p><h2>Hashgreen at Chia in China&#x27;s AMA</h2><h3>What Chia is trying to solve with its NFT standards</h3><p>In the AMA held by Chia in China, we introduced our products and talked about offer features and Chia&#x27;s NFT standards. Below are three factors we mentioned about Chia&#x27;s NFT during the AMA, namely what Chia is trying to solve and realize with its NFT standards.</p><ul><li><p><strong>Autonomous offer trading: to trade without authorization from a third-party platform.</strong>  </p><p>Chia does not need you to authorize a third-party platform to operate for you.
+This could fundamentally prevent users from getting scammed. </p></li><li><p><strong>Decentralized Identifier (DID): to verify the authenticity and to prove the ownership.</strong></p><p>Has it ever happened to you when you bought an NFT and later discovered that it was an impersonation scam?
+This is what Chia wants to solve with its <a href="https://www.chia.net/2022/05/11/our-vision-for-chia-nfts.en.html">NFT1 standard</a>.
+DID is like a digital identification that confirms the authenticity.
+With such method, creators or project owners can have their NFTs connected with their DIDs, proving the ownership with the digital identity.</p></li><li><p><strong>Royalty: to pay profit-sharing to the author of an NFT.</strong>  </p><p>How many percent of royalty payment should be given to the author of an NFT is what Chia&#x27;s figuring out and this is going to be one of the core ideas for NFT1.</p></li></ul><p>Chia&#x27;s NFT is definitely a worthy path to take and a pull factor that attracts developers, investors, and users to come, especially when there&#x27;s a variety of paths such as DEX, NFT, and DeFi that people have embarked on to develop or build Chia&#x27;s infrastructure. </p><p>Regardless of which path you are going to take or have taken, we, Hashgreen, are always pouring ourselves into helping these projects, including NFTs. Most importantly, providing a steady and strong base for Chia&#x27;s community is what we expect and choose to do to allow all tokens in Chia to be able to trade. </p><h2>Committed and Uncommitted Offers</h2><h3>What we think offer2 can hold for us</h3><p><a href="https://www.chia.net/offers/">Offer files</a> (”offers”, “offer1 standard”) have been one of the biggest drivers for the community activities in Chia, as it provides a p2p way for people to trade trustlessly and securely. As one of the first adopters of offer1, we love it so much that we start to think what we ultimately want it to evolve into based on the feedback of many DEX users. We heard these feedback:</p><ul><li><p><strong>Why does my attempt to fulfill the offer fail?</strong>  </p><p>Ok, so this relates to how current offers are structured: they are not <em>commitments</em> on the chain to indicate token swap intentions, but merely a <em>memorandum of understanding</em>. The offer makers can withdraw their offers any second by spending the recorded coins in the offer, while you, the offer taker, have to check if the coin still exists beforehand. </p><p>Can we make this process better? Yes! In fact, the offers should be on chain with two possible exit paths: either via settled swaps or clawback after some timeout. You can be assured that the offer is still 100% valid as long as you peek into the coins and you know for how much longer they will continue to remain valid.
+</p></li><li><p><strong>Is there a limit price I can put? Partial fill?</strong></p><p><em>No limit price. No partial fills. Ouch.</em></p><p>This is most of our experience with the current DEX on Chia, and we understand it so much more. We would call it lack of feature rather than a bug for offer1, as the logic for limit price and partial fills are very custom to <em>fungible tokens</em>. The logic for offer1 is perfect, for example, for NFTs as they need to be exchanged in whole. We think a good offer2 design should leave rooms to house some custom logic, including things like “allowing transactions to go through as long as prices are above this price” and “self re-instantiation if certain conditions are met”.
+</p></li></ul><p>From an AMM building perspective, we think having an offer2 that satisfies the above criteria would allow an easier exchange of funds, thus increasing liquidity and capital efficiency in the Chia Blockchain. So, rest assured folks, while Hashgreen Labs continues to build on Chia!</p>]]></content>
+        <author>
+            <name>J.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Update #11]]></title>
+        <id>/weekly-update-11</id>
+        <link href="https://docs.hash.green/blog/weekly-update-11"/>
+        <updated>2022-06-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hashgreen updates on: AMM's design features, i18n for DEX, and scam alert]]></summary>
+        <content type="html"><![CDATA[<p><img src="./assets/banner.png" alt="banner"/></p><h2>What&#x27;s Been Done</h2><h3>AMM&#x27;s Design Features Explained</h3><p>Hi Chia holders! We at Hashgreen have some updates on the long awaited AMM! Over the past weeks, while we have implemented basic building blocks for the smart schemes, more importantly we are composing these blocks to ensure users have great experience trading and participating in our ecosystem.</p><ul><li><p><strong>A sustainable token and distribution scheme for the Hashgreen ecosystem:</strong>  </p><p>We want to bake our tokenomics directly into our AMM by highly incentivizing the first batch of supporters for their rapid adoption. On the other hand, we are considering allowing not only liquidity providers to earn (liquidity mining), but also protocol owners — each and every one who owns the Hashgreen token — to earn.
+</p></li><li><p><strong>Fair pricing of token pairs:</strong>  </p><p>We all know there are huge Miner Extracted Values (MEVs) in the Ethereum ecosystem, and especially when it comes to trading, miners can easily manipulate the orders of contract interaction in their favor.
+Chia Blockchain does not have this problem, and we enforce a rule of single price per block to prevent market manipulation. Everyone who interacts with the AMM gets the same price and does not get front-run.
+</p></li><li><p><strong>Name your slippage tolerance and commitment period:</strong></p><p>When you put orders in to buy from/sell to the AMM, on top of the assured fair prices, you can additionally specify a maximum slippage tolerance you are willing to accept, and until when the order is valid.
+These fully adjustable parameters will make interactions with AMM a very familiar experience compared to existing ones you have used before.</p></li></ul><p>There are many more design features we are currently working out! If you have questions, feel free to shoot message at our <a href="https://twitter.com/HashgreenLabs">Twitter</a> or <a href="https://discord.com/invite/KXvqv6cwAk">Discord</a>!</p><h2>What&#x27;s Rolling</h2><ul><li><p>Language switch option is about to be released again in the near future!
+As we would like to support as many languages as possible, we are looking for volunteer translators!
+If you are interested in providing help, please head to our <a href="https://discord.com/invite/KXvqv6cwAk">Discord server</a> and write a message in #translators or DM <code>@HG | Daisy</code> and <code>@HG | James</code> to let us know. </p></li><li><p>Lately we&#x27;ve noticed that there&#x27;s some impersonation scams in Chia&#x27;s community and people have been affected by it.
+Thanks to the community&#x27;s effort and your report, we were able to identify it and withdrew it from circulation in our DEX.
+Please be extra careful when you make any transaction, and make sure you have a full understanding of the background of the tokens you&#x27;re going to trade.
+The effort in identifying and terminating scams is also attributed to the token listing mechanism in our DEX, where the data is reviewed after being imported from TAIL database API.
+We are currently working on adding warning messages in the DEX to help you and please keep careful watch for potential scams whenever you trade.</p></li></ul>]]></content>
+        <author>
+            <name>J.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Update #10]]></title>
+        <id>/weekly-update-10</id>
+        <link href="https://docs.hash.green/blog/weekly-update-10"/>
+        <updated>2022-05-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hashgreen updates on: User ID and user feedback.]]></summary>
+        <content type="html"><![CDATA[<p><img src="./assets/banner.png" alt="banner"/></p><h2>What&#x27;s Been Done</h2><p>Over the past week, we&#x27;ve had <a href="https://www.goby.app/">Goby</a> successfully integrated into <a href="http://hash.green/">Hashgreen DEX</a> and we&#x27;ve also shared an interesting discovery made possible via a tool we developed that analyzes and reifies blockchain activities on Chia.
+If you&#x27;d like to see more of the cool graph analysis, please visit our tweet <a href="https://twitter.com/HashgreenLabs/status/1529884518345322502?s=20&amp;t=-dqCN0qI5_KyatFeZeRe5w">here</a> and join the discussion.</p><h3>Transaction Fee and Chia&#x27;s Coin Set Model</h3><ul><li><p>We received some feedback from you related to the mechanism of transaction fee and the <a href="https://docs.chia.net/docs/04coin-set-model/intro">coin set model</a> that Chia uses.
+Chia released in <a href="https://github.com/Chia-Network/chia-blockchain/blob/main/CHANGELOG.md#:~:text=When%20making%20an%20offer%2C%20makers%20can%20now%20create%20an%20offer%20including%20a%20fee%20to%20help%20get%20the%20transaction%20into%20the%20mempool%20when%20an%20offer%20is%20accepted">Chia Blockchain 1.3.4</a> the function of allowing makers to create an offer with a fee in order to help get the transaction onto the blockchain.
+According to the release, now when you want to make an offer in Hashgreen DEX, you can always add a transaction fee via Chia wallet or Goby wallet to ensure the priority of your offer in the queue. (See <a href="https://docs.hash.green/blog/airdrop-on-hashgreen-dex#what-is-the-dust-storm">Best Chia Projects Bootstrapped on Hashgreen DEX</a> for more.) </p></li><li><p>Sometimes problems such as <code>amount higher than spendable balance</code> would occur when you try to make an offer. This is likely due to the characteristics of Chia&#x27;s coin set model:</p></li></ul><blockquote><p>According to <a href="https://www.chia.net/2021/07/13/a-vision-for-defi-in-chia.en.html">an article</a> written by <a href="https://twitter.com/bramcohen">Bram Cohen</a>, he explains in the second paragraph:</p><ul><li><em>The only persistent data is the current set of unspent coins, which have sizes and rules about how they can be spent.</em> </li><li><em>When a coin is spent it can make new coins using its value but the original coin is gone forever.</em></li></ul></blockquote><ul><li><p>Take the following scenario as an example: You have 20 USDS in your wallet and you&#x27;d like to create an offer to buy 1 XCH for 10 USDS. </p><ul><li><p>Due to Chia&#x27;s coin set model, your 10 USDS may consist of different coins in one package.
+Possibilities of the actual allocation could be: (A) one coin sized 20 USDS, (B) two coins sized 18 USDS and 2 USDS, or (C) whichever amount of coins that sums up as 20 USDS, depending on how the original transaction looks like or how many coins that are originally in your wallet.
+As you make the transaction, it sends the entire amount (or the highest amount of coin that you have) to the blockchain, then the change will be sent back to you.</p></li><li><p>In such a case where you have one single coin sized 20 USDS, your coin will be sent to the blockchain, destroyed, and split into two coins of 10 USDS, one of which will be spent, while the other will be given back to you.
+Before the transaction is sent to the full nodes (mempool, actually) and waiting to be included in the blockchain, you may not be able to make another offer since technically you don&#x27;t have any coins available to be spent in your wallet. </p></li><li><p>Therefore, whenever you try to create another offer, you won&#x27;t be able to do so, and that alert message <code>amount higher than spendable balance</code> will show up to remind you.</p></li></ul></li></ul><h3>User ID</h3><ul><li><p>If you are transitioning from one device browser to another, you can use <code>user ID</code> to migrate your order and trade records.
+Previously on <a href="https://docs.hash.green/blog/weekly-update-6">Weekly Update #6</a>, we mentioned the function of user ID and how to use it. We would like to elaborate on this function, explaining more about the use and things for you to notice. </p></li><li><p>Users can import trade records from one device or browser to another.
+Please note that user ID is bound to the browser you&#x27;re using. In other words, it will vary depending on the browser or device that you use. When the data migration is done, the original user ID will become invalid, which means you can no longer see the trade records in the original one.</p></li><li><p>Data migration will not be affected by the status of your wallet connection.</p></li></ul><h2>What&#x27;s Rolling</h2><p>Two weeks ago we had a <a href="https://twitter.com/HashgreenLabs/status/1526258001916530688?s=20&amp;t=-dqCN0qI5_KyatFeZeRe5w">Twitter poll</a> asking for your feedback about the integration of Goby wallet, and we received a handful of your feedback for the update. We would like to invite you to tell us about your thought of using Hashgreen DEX.</p><h3>Feedback wanted</h3><ul><li><p>Now we are looking for users to share with us your feedback.
+If you&#x27;re interested in helping us improving our product, drop a message in our <a href="https://discord.gg/KXvqv6cwAk">Discord channel</a> #ideas-and-feedback or tag <code>@HG | Daisy</code> and <code>@HG | James</code> in #general to let us know! Or you can just tell us about your feeling of using Hashgreen DEX and what can we improve directly at #ideas-and-feedback. Feedback is always wanted and appreciated! </p></li><li><p>Example feedback questions:</p><ul><li>Your experience using our DEX</li><li>Opinions of the functions or design we&#x27;ve had</li><li>Any idea of tools or functions that can be integrated into our product</li></ul></li></ul>]]></content>
+        <author>
+            <name>J.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Update #9]]></title>
+        <id>/weekly-update-9</id>
+        <link href="https://docs.hash.green/blog/weekly-update-9"/>
+        <updated>2022-05-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hashgreen updates on: Goby wallet integration, and syncing order history.]]></summary>
+        <author>
+            <name>J.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Update #8]]></title>
+        <id>/weekly-update-8</id>
+        <link href="https://docs.hash.green/blog/weekly-update-8"/>
+        <updated>2022-05-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hashgreen updates on: light/dark scheme and Goby wallet integration on the testnet]]></summary>
+        <author>
+            <name>J.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Update #7]]></title>
+        <id>/weekly-update-7</id>
+        <link href="https://docs.hash.green/blog/weekly-update-7"/>
+        <updated>2022-05-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hashgreen updates on: brand new landing page, and live market status.]]></summary>
+        <author>
+            <name>J.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Update #6]]></title>
+        <id>/weekly-update-6</id>
+        <link href="https://docs.hash.green/blog/weekly-update-6"/>
+        <updated>2022-04-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hashgreen updates on: multi-offer upload, new design of my orders, order book UI, and product facelift.]]></summary>
+        <author>
+            <name>J.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Chia Projects Bootstrapped on Hashgreen DEX]]></title>
+        <id>/airdrop-on-hashgreen-dex</id>
+        <link href="https://docs.hash.green/blog/airdrop-on-hashgreen-dex"/>
+        <updated>2022-04-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here are some best projects on Chia Blockchain that you should follow. Hashgreen DEX is proud to have worked with these cool projects!]]></summary>
+        <author>
+            <name>H.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Update #5]]></title>
+        <id>/weekly-update-5</id>
+        <link href="https://docs.hash.green/blog/weekly-update-5"/>
+        <updated>2022-03-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hashgreen updates on: fee UX, market selection UI, and market stat API]]></summary>
+        <content type="html"><![CDATA[<p><img src="./assets/banner.jpg" alt="banner"/></p><h2>What&#x27;s Been Done</h2><ul><li>Over the past weeks, fees on the Chia Blockchain seems to be here to stay.
+To allow our users get their transactions on chain quicker, we now provide users with the ability to supply fee by adding to the supplied Chia amount or removing from the requested Chia amount in their offers.
+The suggested fee is hinted on the pop-up window for order book items, and is currently 0.0001 XCH.
+We chose this number since it not only suffices to be on top of the mempool, but is miniscule (7 cents USD at the time of writing) for users.
+In the future, we plan to implement more accurate fee estimators to give better fee hints and save you some bucks.</li></ul><p>:::note How is it done?</p><p>With Chia offers, Hashgreen is able to redirect the provided fees into a temporary address, then we generate a <code>SpendBundle</code> on the fly to spend the extra amounts as fee.
+This <code>SpendBundle</code> is then aggregated with the user offers before we push it to the Chia Blockchain.</p><p>:::</p><figcaption align="center"><b>Figure: These are two different options you can provide to match an offer you like</b></figcaption><div style="text-align:center"><p><img src="./assets/fee-prompt.jpg" alt="fee-prompt"/></p></div><ul><li>We made it easier for users to submit your orders!
+Simply copy the amounts provided in the pop-up panel when you hover on the offers you want to match against with the copy button.
+You can also paste your offer file string directly on the web interface.</li></ul><figcaption align="center"><b>Figure: Here are the button to copy your preferred amounts to supply</b></figcaption><div style="text-align:center"><p><img src="./assets/copy-fee.jpg" alt="copy-fee"/></p></div><figcaption align="center"><b>Figure: In the official Chia wallet, use this copy button to copy the raw offer file into your clipboard</b></figcaption><p><img src="./assets/copy-offer.jpg" alt="copy-offer"/></p><figcaption align="center"><b>Figure: Press this big paste button to upload your offer file</b></figcaption><p><img src="./assets/paste-offer.jpg" alt="paste-offer"/></p><ul><li><p>Many partners are starting to integrate our <a href="/trading-api#get-market-statistics">Market Statistics API</a> into their platforms.
+The previous generation were slow and bulky, taking nearly 30 seconds to complete a call.
+We have optimized it to return the results in under half a second.</p></li><li><p>New market selection menu is now available at <a href="https://testnet10.hash.green/dex">UAT interface</a>.
+If you want the UAT interface to connect with mainnet, head to <a href="https://testnet10.hash.green/dex/settings">UAT settings</a> and toggle on <code>PROD</code>.</p></li></ul><p><img src="./assets/market-selection.jpg" alt="market-selection"/></p><ul><li>We fixed many bugs on the frontend interface, including incorrect display of order status (sometimes it shows &quot;Confirming undefined&quot;), and user token retrieval errors.</li></ul><h2>What&#x27;s Rolling</h2><ul><li>The smart coin team is coding up the first version of AMM coin driver for an MVP AMM protocol.
+As time goes on, we will gradually implement more standard functionalities in current AMMs!</li></ul>]]></content>
+        <author>
+            <name>H.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Update #4]]></title>
+        <id>/weekly-update-4</id>
+        <link href="https://docs.hash.green/blog/weekly-update-4"/>
+        <updated>2022-03-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hashgreen updates on: price/trade API, fee support, product facelift, and massive token listing]]></summary>
+        <content type="html"><![CDATA[<p><img src="./assets/banner.jpg" alt="banner"/></p><h2>What&#x27;s Been Done</h2><ul><li><p>Over the weeks, we have been observing some users to submit deliberately mispriced orders and as a result, displacing the price reported in <a href="/trading-api#get-trade-history">market statistics</a>.
+We have adopted feedback from our <a href="https://discord.com/channels/920892922969354311/922958572407632024/943857984482738196">community member Bluemoon</a> to filter trade prices according to the current order book.
+The <code>price</code> field now is a stabler measure of the market.
+For existing API users who require stable price sources, there is nothing you need to do; for developers who want to see all trades including the mispriced ones, please check out <a href="/trading-api#get-trade-history">Trade History API</a>.</p></li><li><p>You can now access all market statistics with <a href="/trading-api#get-trade-history">Market Statistics API</a> by leaving the <code>market_id</code> field blank.</p></li><li><p>Over the course of the week, we added several tokens, including <a href="https://littlelambocoin.com/">Little Lambo Coin</a>, <a href="https://wings.green/">Green Wings</a>, and <a href="https://easteregg.tk/">Easter Egg</a>.
+These community developers are have a blast with all kinds of activities!
+Active participation from community members is a critical factor to a project&#x27;s success, and we enjoy co-hosting all sorts of events to foster the communities.</p></li><li><p>We implemented support for fee on Hashgreen DEX and will soon roll out on the mainnet.
+Under dust storm conditions, it might take a few hours to settle your trades, but now you will be able to optionally receive a little bit less XCH or pay a little more XCH as the network fee to expedite your orders.
+The frontend will indicate the suggested fee according to network conditions, and usually a 0.0001 XCH will get your offers settled in no time!</p></li><li><p>The UI/UX team continues to implement the product facelift.</p></li></ul><h2>What&#x27;s Rolling</h2><ul><li><p>Goby integration, after reaching out to the Goby team, turns out to be not possible at the time of writing since the ability to make offers from Goby is still being implemented.
+Current integrations on other platforms rely on the offer taking feature, which has already been a part of previous Goby feature set.
+As briefly explained in <a href="/blog/2022/01/29/introducing-hashgreen-dex">a blog post</a>, we believe an efficient DeFi system would require the operators aggregate the offers, so we are now waiting good news from the Goby team about the offer making functionality.</p></li><li><p>We soon will start listing all tokens on the <a href="https://www.taildatabase.com/">TAIL Database</a>, compacted in the new market selection menu.
+You can even star your favorite CATs!</p></li></ul>]]></content>
+        <author>
+            <name>H.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Update #3]]></title>
+        <id>/2022/03/02/weekly-update</id>
+        <link href="https://docs.hash.green/blog/2022/03/02/weekly-update"/>
+        <updated>2022-03-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hashgreen updates on: community airdrop tools, integration with taildatabase & Goby, and AMM]]></summary>
+        <content type="html"><![CDATA[<p><img src="./assets/banner.jpg" alt="banner"/></p><p>This is a long overdue update to the community!
+During the past two weeks, we are looking at other aspects of development on the Chia Blockchain.</p><h2>What&#x27;s Been Done</h2><ul><li><p>We worked with many project developers, including <a href="https://n-chain.org/">NINE</a>, <a href="https://twitter.com/NioCoinInfo">NioCoin</a>, <a href="https://www.zomb.studio/">Zomb Studios</a>, and <a href="https://fundmylaptop.com">FundMyLaptop</a> on their airdropping campaign with our in-house airdrop tools.
+The need for such a tool for project developers cannot be overstated, and we managed to test it fairly thoroughly over the duststorm, sending out thousands of transactions on Chia.
+The airdrop tools is aimed for a open source later this month.</p></li><li><p>The chialisp team is developing a chialisp library that enables secure smart coin development on Chia, much like <a href="https://github.com/OpenZeppelin/openzeppelin-contracts">OpenZeppelin</a> on Ethereum.
+The goal is to not only establish a set of tools for easier smart coin development, but also re-implement some standards (e.g., <a href="https://chialisp.com/docs/puzzles/cats">CATs</a>) for these advanced developers to understand the use case.
+Below is an sneak peek on the square root function we implemented which would be a core utility function for AMMs!</p></li></ul><pre><code class="language-lisp">(
+  ;; Babylonian method for square root.
+  
+  (defun cypher.math.sqrt-loop-babylonian (var var1 var2)
+
+    (if (&gt; var1 var2)
+      (cypher.math.sqrt-loop-babylonian
+        var var2 (/ (+ (/ var var2) var2) 2))
+      var1
+    )
+  )
+
+  (defun cypher.math.sqrt (var)
+    (if (&gt; var 3)
+      (cypher.math.sqrt-loop-babylonian var var (+ (/ var 2) 1))
+      (if (&gt; var 0) 1 (if (= var 0) 0 (x)))
+    )
+  )
+)
+</code></pre><ul><li><p>The backend team wrapped up integration with the <a href="https://www.taildatabase.com/">TAIL Database</a>.
+We now have all the community CATs in our database, and once the new market selection menu is rolled out, you will be able to easily search up token markets! </p></li><li><p>The UI/UX team worked through the first draft on the user interface refactor on Figma. </p></li><li><p>We onboarded a frontend engineer, Henry, to help with mobile wallet integration.
+He will work with Goby wallet to enable that one-click trading experience. </p></li></ul><h2>What&#x27;s Rolling</h2><ul><li><p>Goby integration is apparently the most requested feature!
+However, unlike <a href="https://offerpool.io/">offerpool</a> and <a href="https://offerbin.io/">offerbin</a>, Hashgreen implements our technology to be an <em>offer aggregator</em> so the raw offer files are never exposed to fellow users.
+We instead ask the wallet to upload a counter-offer to our website, which we can then be combined with existing offer on Hashgreen for blockchain execution.</p></li><li><p>Due to the shear number of CATs out there, we are prioritizing the market selection menu refactoring.
+The upgraded menu would allow you to easily navigate hundreds of CATs, star your favorite ones, and group CATs by their types.</p></li><li><p>We noticed that there is a need for a robust transaction micro-service to handle dApp requests, especially during the duststorm where fee is non-zero and when everyone suffers.
+This transaction micro-service will not only deterministically make sure a transaction is delivered, but also provide on-chain fee estimates for our upcoming dApps.</p></li></ul>]]></content>
+        <author>
+            <name>H.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Update #2]]></title>
+        <id>/2022/02/14/weekly-update</id>
+        <link href="https://docs.hash.green/blog/2022/02/14/weekly-update"/>
+        <updated>2022-02-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hashgreen updates on: USD quotes in API, i18n inclusion of Chinese and Spanish, and AMM initial discussion]]></summary>
+        <content type="html"><![CDATA[<p><img src="./assets/banner.jpg" alt="banner"/></p><h2>What&#x27;s Been Done</h2><h3>API Access</h3><p><a href="/trading-api">Trading API</a> has been the biggest update for the week.
+We are committed to provide a diverse set of API for developers so the community can grow with us.
+At the same time, we would like you to be explicit about the usage of Hashgreen APIs in your products to spread the words!
+Let us know your story and the creative use of both open market information and statistics.</p><ul><li>We added USD quotes and USD volume in the <a href="/trading-api#get-market-statistics">market stat</a> endpoint.
+The fully diluted market cap for the base currency in USD (the token in the front of the trading pair) is also provided as a ball park measure of how big the token is.</li></ul><p>Note that the reference prices are only estimates are can be vulnerable to self-trading exploits.
+Please do not use currency price quotes directly in mission critical systems but only as a good reference.</p><h3>User Interface</h3><ul><li>The frontend team has been working hard on i18n (check out the <a href="https://testnet10.hash.green/dex">beta site</a>), and will be soon be pushed to the production site.
+We are offering Chinese and Spanish as a taste test, and are preparing for a community-based translation campaign!</li></ul><p><img src="./assets/i18n.jpg" alt="i18n"/></p><ul><li>The aforementioned market statistics are now displayed as a part of the market header.
+You can easily judge market liquidity based on the USD volume.</li></ul><p><img src="./assets/market-stat.jpg" alt="i18n"/></p><ul><li>We&#x27;ve also worked through a bunch of frontend bug fixes including market selection menu overflow and asset filter menu.
+We won&#x27;t bother detailing them but rest assured we are incorporating community feedback.</li></ul><h2>What&#x27;s Rolling</h2><ul><li><p>Now that we have the fully diluted market cap, we are making a market overview menu to highlight the most traded and the highest cap tokens.</p></li><li><p>The fully diluted market cap does not holistically represent the true market capitalization as any whale can HODL the majority of the tokens.
+What is more representative is the market cap based on circulating supply which can be tricky to automatically detect on Chia.
+We are working on some smart algorithms to pick that up from the blockchain.</p></li><li><p>In the long run, we realize we need a more elegant product UI to streamline user experience.
+The recently onboarded UI designer is starting to work hard on the refactor.</p></li><li><p>We had some very fruitful discussion on the mathematical design of automated market makers (AMM).
+There are some pretty important implications translating everything from account-based to coin-based models, and we are pretty sure we nailed it correctly.</p></li></ul>]]></content>
+        <author>
+            <name>H.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Update #1]]></title>
+        <id>/2022/02/07/weekly-update</id>
+        <link href="https://docs.hash.green/blog/2022/02/07/weekly-update"/>
+        <updated>2022-02-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hashgreen updates on: UI and trading API release]]></summary>
+        <content type="html"><![CDATA[<p><img src="./assets/banner.jpg" alt="banner"/></p><p>Happy lunar new year everyone!
+The Asia-based Hashgreen dev team had a great lunar new year over the past week!
+We find that our <a href="https://discord.gg/SESAPmJXFD">Discord community</a> has been very active, and some updates might get buried under the exciting updates on new CAT tokens joining the family every other few days.
+Hence we are starting to update you about our technical progress on a weekly basis.</p><h2>What&#x27;s Been Done</h2><h3>User Interface</h3><ul><li>We added the light/dark scheme switch to make your eyes more comfortable, located in the footer section.</li><li>Right beside the market selection button, there is a row of market statistics showing 24h high, 24h low, volume, and the current price.</li></ul><h3>API Access</h3><ul><li><p>To facilitate automatic trading, we released our <a href="/trading-api">first API doc on trading</a>, including the ability to list markets, order books, and personal order creation/cancellation.
+We envision more and more participants can be in this process to reach the best market efficiency, involving arbitrage loops across Hashgreen DEX and other exchanges.
+In the loop, you will have to involve <a href="https://prime.stably.io">Stably Prime</a> as they are the only stablecoin issuer on Chia right now.</p></li><li><p>The statistics of markets can now be retrieved via <a href="/trading-api#get-market-statistics">stat API</a>.
+In the first version, we provide 24-hour statistics on the traded volumes, and are working towards representing the volumes in USD.</p></li></ul><h3>Personnel</h3><ul><li>We onboarded a UI/UX designer, Ann, to help us improve our product further.
+There are some complicated integration with our partners including the official Chia wallet, a in-development Chrome extension wallet, and potentially one other browser-based wallet.
+We imagine the UX flow to be increasingly complicated, and hence it is time to involve specialists.</li></ul><h2>What&#x27;s Rolling</h2><ul><li><p>I18n is coming! We aim to build Hashgreen DEX to be a platform everyone in the world can enjoy, and we soon will need your help to translate our product!</p></li><li><p>The smart contract team is working on several chialisp designs, which can be a pretty prolonged process as it requires not only security audit but implementation and integration with wallet partners.
+One of the most immediate improvement to the Hashgreen DEX is to use an alternate version of offers to allow partial filling of offers.</p></li><li><p>The next critical piece for the on-chain economy and DeFi will be Automated Market Maker (AMM)!
+AMM implementation on the Chia Blockchain will require some bells and whistles though, and we are working very hard to propose a first draft.
+This set of chialisp implementation will not only be secure and fair from a user&#x27;s perspectively, eliminating potential extractable values.
+All of these are still in development, but we want to stay tuned for more exciting updates!</p></li></ul>]]></content>
+        <author>
+            <name>H.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the Hashgreen DEX]]></title>
+        <id>/2022/01/29/introducing-hashgreen-dex</id>
+        <link href="https://docs.hash.green/blog/2022/01/29/introducing-hashgreen-dex"/>
+        <updated>2022-01-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hashgreen blog on: DEX release and philosophy]]></summary>
+        <content type="html"><![CDATA[<p>Hashgreen successfully released a decentralized exchange on Jan 12, 2022, in a joint live event with <a href="https://chia.net">Chia Network</a>.
+If you were not at the event with us, here is a clip of the presentation on the <a href="https://hash.green">Hashgreen Decentralized Exchange (DEX)</a>.</p><iframe width="560" height="315" src="https://www.youtube.com/embed/aOvoThx7aRY?start=1896" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe><p>Chia Blockchain introduced its first on-chain atomic token swap standard, powered by the underlying smart coin language <a href="https://chialisp.com">Chialisp</a>.
+Using this standard, users can start exchanging tokens on the chain, including the Chia (XCH) token and other <a href="https://chialisp.com/docs/puzzles/cats/">Chia Asset Tokens (CATs)</a>.
+This functionality opens a lot of possibilities on the blockchain, including the first batch of dApps, with <a href="https://hash.green">Hashgreen DEX</a> being one of them.</p><p>We at Hashgreen have been working hard for months to develop the project and integrate our interface into the official <a href="https://chia.net/download">Chia wallet</a>.
+After the successful launch, we received many questions on how and why we decided to build <a href="https://hash.green">Hashgreen DEX</a> this way.</p><p>In today&#x27;s post, we want to take you through a journey - a journey on Chia&#x27;s most basic technical building blocks, how and why we crafted the first DEX on the Chia Blockchain, and finally, how we envision DeFi will look like on Chia.</p><h2>Prologue</h2><p>Let&#x27;s not pretend this has never happened.
+You opened up your Chia wallet, trying to <a href="https://hash.green/dex/XCH-USDS">exchange</a> some Chia (XCH) for some Stably USD (USDS) on the Hashgreen DEX.
+This popped out, saying you have a lot less <em>spendable balance</em> than you have <em>total balance</em>...</p><p><img src="./assets/oh-no.jpg" alt="Oh No!"/></p><p>...what happened! If I have all the XCH, why am I unable to send them all, or make an offer out of it? Well, UTXO is the main culprit here. </p><h2>UTXO</h2><p>Short for <em>unspent transaction outputs</em>, this is nothing new and was introduced by Bitcoin.
+Instead of having a balance sheet for every user on the blockchain, Chia tracks your funds using UTXOs (or, rather, <em>coin set</em> to be more accurate), which is a technically fancy way of referring to <a href="https://chialisp.com/docs/coins_spends_and_wallets/">coins</a>.
+Coins have predefined ways to be spent, and are capable of producing coin outputs when they are spent.
+Moreover, any given coin is only ever created once and spent once -- and that&#x27;s it!
+This philosophy focuses on tracking the <em>change of state</em> on the blockchain as opposed to recording the whole state.</p><p>:::info
+You can easily track how many coins are created in the blockchain using <a href="https://xchscan.com/txns?block=1000001">explorers</a>.
+:::</p><p>The choice of using UTXOs on Chia leads to many interesting and advantageous properties:</p><ul><li><p>The verification of coin spending is highly parallelizable since each coin can only have one interaction.
+In contrast, account-model-based blockchains need to handle transactions sequentially.</p></li><li><p>The balance is a first-class citizen on the Chia Blockchain!
+Instead of being a state stored in a mapping table, every coin on Chia has an explicit <em>amount</em>, the total of which has to stay constant.
+(Well except when you farmed a block, you receive 2 XCH in total out of thin air.)</p></li><li><p>Since the transactions in a single block are <em>order-less</em> (i.e. their order does not matter as long as they are included in the block), the attack surface of smart contracts reduces drastically.
+In other blockchains, we often hear the term <em>Miner Extractable Value (MEV)</em>, which refers to the profit that a miner could secure by manipulating the ordering of the transactions. </p></li></ul><p>:::info
+<a href="https://explore.flashbots.net/">It is estimated</a> that over $576M MEV, as of the time of writing, has been extracted from Ethereum.
+:::</p><p>With these seemingly wonderful advantages, it sounds like a no-brainer that every chain should adopt this model as opposed to the account model.
+Apparently there are some trade-offs; trade-offs that takes additional effort to mitigate but are definitely worth it.</p><h3>Implications to Users</h3><p>Let&#x27;s hop back onto our spendable balance problem.</p><p>When we make transactions, we are in fact spending a coin or coins that might sum up to more than what we try to send.
+For example, imagine you are a lucky farmer who farmed a 1.75 XCH coin and wish to send 0.1 XCH to your friend to let them HODL.
+When you send the XCH, you are actually destroying the initial 1.75 XCH coin, creating a 0.1 XCH for your friend, and sending the rest 1.65 XCH back to yourself.
+During the wait for the change coin to come back, your funds are effectively reduced, and that is why the Chia wallet shows a lower <em>spendable balance</em> as you cannot double-spend a coin.</p><p><a href="https://www.chia.net/offers/">Offers</a> are more or less the same: as you create offers to exchange your tokens, you do not want to accidentally spend your coins and invalidate the offer.
+The Chia wallet was kind enough to <em>soft-lock</em> the coin so that it cannot be used, until you either cancel the offer or when the offer has been fulfilled.</p><h3>Implications to Developers</h3><p>The UTXO model, while having a significantly smaller attack surface than that of the account model, is trickier for protocol design.
+If you still remember, transactions in the same block are spent <em>simultaneously</em> and every coin is only spent exactly once. This implies that if we want to build a more advanced application, we have to design while keeping the ability to perform multiple interactions in mind.
+Take a very basic application for example - an automated market maker (AMM).</p><p>The most renowned instance of an AMM is <a href="https://uniswap.org/">Uniswap</a> where <em>swappers</em> would exchange their assets with a liquidity pool at a <em>market price</em> determined by the amount of assets held in the pool.
+When Uniswap contracts are executed, they run sequentially, creating an interaction between the swapper and the pool each time.
+Yet on the Chia Blockchain, we cannot naively queue up user exchange requests sequentially, since there is only <em>one</em> pool with <em>one</em> coin present.
+This produces several challenges: For example, exchange operations would need to be aggregated somehow to interact with the pool together.
+Furthermore, we need to ensure price fairness, resist against denial of service attacks, and overcome many other problems!</p><p>There are many proposed solutions on other UTXO-based blockchains, and for the sake of brevity, we will include the discussion in future posts.</p><p>:::tip
+In short, clever design choices have to be made for dApps, but when smart contracts are carefully crafted, UTXO-based blockchains have better security guarantees and efficiency.
+:::</p><h2>Chia&#x27;s Take</h2><p>Bitcoin was successful, but as a <em>store of value</em>, not as a successful technological demonstration.
+Bram Cohen himself wrote about <a href="https://www.chia.net/2021/05/27/Agrgregated-Sigs-Taproot-Graftroot.html">how Chia&#x27;s technical motivation stemmed from Bitcoin</a>, and as a last-mover, Chia was able to get things right the first try.</p><p>On day one, Chia shipped with the full capability to process smart contracts (or, smart coins, to be more accurate).
+The on-chain language, <a href="https://chialisp.com/">chialisp</a>, powers many existing features such as <a href="https://chialisp.com/docs/puzzles/singletons">singleton</a>, <a href="https://chialisp.com/docs/puzzles/cats">Chia Asset Token (CAT)</a>, and even <a href="https://chialisp.com/docs/puzzles/offers">offers</a>.
+The programs for smart coins themselves were not actually stored on-chain, but rather, its Merkle root hash is.
+One does not have to reveal the program until the coins are spent, thus greatly reducing the attack surface.
+These smart coin primitives are also extremely composable, giving developers building blocks for their decentralized applications.</p><p>To date, there is a prosperous community around CATs -- project developers issuing their own tokens and project followers HODLing and trading.
+We at Hashgreen believe there are more exciting things to come in the Chia ecosystem, but first, let us take a look at how we built the Hashgreen DEX and why it is designed in this way.</p><h2>Hashgreen DEX</h2><p><a href="https://chialisp.com/docs/puzzles/offers#introduction">Chia wrote an in-depth analysis</a> about how offers work technologically and how they can be used in dApps.
+In case you have not read it, here&#x27;s a quick summary:</p><p>:::info
+Offers are serialized off-chain commitments to swap coins for coins.
+Anyone can take that file and complete the other side of the swap, sending it to the blockchain to settle.
+Without the other half of the trade, no one would be able to spend your coins or steal your funds.
+:::</p><p>It is intuitive that, you can send your offer files around in channels like <a href="https://keybase.io/team/chia_network.public">Keybase</a> and <a href="https://discord.com/channels/920892922969354311/936601952064782347">Discord</a>, yet you will soon realize -- the prices you get are nowhere close to optimal.
+Liquidity is plain disastrous with vanilla peer-to-peer trading, and this is the main push for more advanced dApps.
+Some examples are <a href="https://offerbin.io/">OfferBin</a> and <a href="https://offerpool.io/">OfferPool</a> which provide offer upload, sorting, and download services.
+They operate just like Craigslist: users are responsible for submitting the offers, and pushing aggregated offers to full nodes on their own.</p><h3>Problems We Solve <a href="https://easteregg.tk/xgnzcsascdz6a9wwkhzvu2jd/" target="_blank"><div icon="bi:egg-fill" color="#ddd"></div></a></h3><p>Interestingly, Hashgreen did consider this solution, and we observed several potential problems with this Craigslist approach and ultimately went with our current DEX approach.</p><ol><li><p><strong>User Contention</strong></p><p>These Craigslist-like offer pastebins will ultimately face an unsolvable challenge with offer <em>contention</em>.
+Concretely, contention happens when an offer was downloaded by different parties and spent in the same block.
+In a fee market, the spends with lower fees will be discarded while the one with the highest fee will go through.
+While the fee rule itself is totally fair, users with an honest intention to trade in the market but using lower fees will unwillingly have to give up and look for other trades.</p><p>Most users do not experience contention now since the market velocity is relatively slow at this point, yet in some cases when there are sudden spikes in trades, contention will become obvious.
+The SM1 token backed by Chris from The Chia Plot <a href="https://thechiaplot.net/2022/01/21/first-major-sale-using-decentralized-chia-offers-mostly-successful/">went on a sale on OfferBin</a>, and one unfortunate conclusion Chris drew was that <em>too many people</em> participating in the auction can cause problems on OfferBin, in line with what we discussed above.</p><p>That is exactly why we opted for a download-free solution: instead of users bringing the offers home and making their counter-offers, we <em>aggregate</em> offers on two sides, immediately bringing both down from the order book, and pushing them to the chain on your behalf.
+Not only are we unable to mess with your fund, but we also are unable to cheat you since the swaps are guaranteed by chialisp.</p></li><li><p><strong>Scalability</strong></p><p>We want there to be market makers in the game.
+We want there to be arbitrageurs in the game.
+We want there to be hobby day traders in the game.
+None of these would be possible without an API interface that is easy to play with and use.
+Hashgreen is drafting up documentation on trading API, which would be finalized soon.
+After its release, we expect people to take advantage of other existing markets to form a closed loop to both stabilize the price and increase liquidity.
+One interesting thing we have observed, at the time of writing, the <a href="https://hash.green/dex/XCH-USDS">XCH/USDS pair</a> is typically higher in price than other XCH/USD pairs in different markets.
+We hypothesize that many interested buyers are gradually entering the market, obtaining XCH with their freshly withdrawn Stably USD, and obviously someone else can obtain XCH at a slightly lower price in overseas markets.</p></li><li><p><strong>Expandability</strong></p><p>There are many plans from Hashgreen to upgrade our DEX.
+To be a fully functioning DEX, one would typically expect there to be features like partial order fills, limit orders, and even market orders.
+We&#x27;ve identified some upgrade paths to the existing offers in order to support these features, and it wouldn&#x27;t require a huge UX remake to integrate them.
+On the contrary, it might be somewhat confusing to implement these features into Craigslist-like services.</p></li><li><p><strong>Interoperability</strong></p><p>News about automatic market maker (AMM) development is on the street.
+Once an AMM is out on the market, we can easily hook you up to trade against AMMs with zero wait time for matching.
+Plus, we are always working closely with the Chia team to create a smoother trading UX experience from Hashgreen DEX to your Chia wallet!</p></li></ol><h3>Open Questions</h3><p>Admittedly, several aspects need to be discussed in-depth about the DEX working principles, and we will briefly mention them here. </p><ul><li><p><strong>Operator Extractable Values (OEV)</strong></p><p>  OEV not only covers the previously mentioned miner extractable values (MEV), but also covers the values extractable by aggregators like Hashgreen DEX.
+In principle, if there are enough orders on the market, they can create an overlap in prices.
+Aggregators, having observed this phenomenon, can pocket the spread by buying up the cheaper sell offer and selling off the more expensive buy offer simultaneously, pocketing the spread.
+While we are honest and only match exact offers from two sides, it is not guaranteed that every aggregator will be a good actor.
+In our preliminary exploration with AMMs, we have found some countermeasures to ensure aggregator honesty in a trustless manner with chialisp.
+The detail of the mechanisms will certainly be revealed and explained in-depth after we release the product, but for the time being we would love to work behind the curtains for some more.</p></li><li><p><strong>Decentralization</strong></p><p>  <a href="https://offerpool.io/">OfferPool</a> sets out to be another offer pastebin site to combat the <em>centralization</em> of offer files.
+The arguments of anti-centralization do make sense up to a certain point, since those were the driving force behind the existence of blockchain technology.
+However, when already operating on a decentralized infrastructure, how much more decentralization is required is debatable, as having scattered decentralized services might lead to inefficiency in the application.
+Take an AMM for example, having more total values locked (TVL) in the protocol means that service users would enjoy a better price.
+Despite being centralized in terms of capital concentration, not a single party is able to single-handedly control the capital since the rules behind the capital movement are crystal clear.
+Hence we believe the better argument is that, the protocols need to be fully transparent to allow the blockchain to do its job at ensuring decentralized and trustless execution.</p></li></ul><h2>Summary</h2><p>Working on the Chia Blockchain certainly brings many unique challenges to the Hashgreen team, and we want to tell you that this <a href="https://www.hashgreen.net/">MIT-based team</a> is not afraid of challenges! </p><p>Along the way, we have heard of perspectives on Chia&#x27;s development purely based on its price, but this is simply an unhealthy view on a tech-heavy project.
+Being one of the first developers on Chia, we are journeying through its infancy as well as you are, and enabling more and more applications on our way.
+At any given point in time, we might find ourselves having to make trade-offs in either protocol design or system deployment, but rest assured that we take a <em>first principled</em> approach with the user&#x27;s best interest at top priority.
+In order for us to communicate these complex ideas with you, we are starting this blog to periodically fill you in with more development progress and technological insights for the Chia Blockchain.</p><p>If you have more questions, you can refer to the <a href="/">FAQs</a> or follow us on social media (<a href="https://discord.gg/4RbcEHGaTg">Discord</a> and <a href="https://twitter.com/HashgreenInc/">Twitter</a>).
+Thanks for staying with us!</p>]]></content>
+        <author>
+            <name>H.</name>
+        </author>
+    </entry>
+</feed>
