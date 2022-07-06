@@ -4,9 +4,16 @@
         <title>Hashgreen Blog</title>
         <link>https://docs.hash.green/blog</link>
         <description>Hashgreen Blog</description>
-        <lastBuildDate>Tue, 28 Jun 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Weekly Update #15]]></title>
+            <link>https://docs.hash.green/blog/weekly-update-15</link>
+            <guid>/weekly-update-15</guid>
+            <pubDate>Tue, 05 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hashgreen updates on: a more satisfying experience using mobiles to visit Hashgreen DEX.]]></description>
+        </item>
         <item>
             <title><![CDATA[Weekly Update #14]]></title>
             <link>https://docs.hash.green/blog/weekly-update-14</link>
