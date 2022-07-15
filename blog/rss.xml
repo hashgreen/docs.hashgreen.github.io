@@ -4,9 +4,16 @@
         <title>Hashgreen Blog</title>
         <link>https://docs.hash.green/blog</link>
         <description>Hashgreen Blog</description>
-        <lastBuildDate>Tue, 05 Jul 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Weekly Update #16]]></title>
+            <link>https://docs.hash.green/blog/weekly-update-16</link>
+            <guid>/weekly-update-16</guid>
+            <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hashgreen updates on: trading and swapping explained]]></description>
+        </item>
         <item>
             <title><![CDATA[Weekly Update #15]]></title>
             <link>https://docs.hash.green/blog/weekly-update-15</link>
