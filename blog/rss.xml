@@ -4,9 +4,16 @@
         <title>Hashgreen Blog</title>
         <link>https://docs.hash.green/blog</link>
         <description>Hashgreen Blog</description>
-        <lastBuildDate>Thu, 14 Jul 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Weekly Update #17]]></title>
+            <link>https://docs.hash.green/blog/weekly-update-17</link>
+            <guid>/weekly-update-17</guid>
+            <pubDate>Mon, 25 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hashgreen updates on: tutorial pop-up page, my orders pagination, adjusting landing page on the mobile, and update for amm.]]></description>
+        </item>
         <item>
             <title><![CDATA[Weekly Update #16]]></title>
             <link>https://docs.hash.green/blog/weekly-update-16</link>
