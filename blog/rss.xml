@@ -4,9 +4,31 @@
         <title>Hashgreen Blog</title>
         <link>https://docs.hash.green/blog</link>
         <description>Hashgreen Blog</description>
-        <lastBuildDate>Mon, 25 Jul 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Weekly Update #18]]></title>
+            <link>https://docs.hash.green/blog/weekly-update-18</link>
+            <guid>/weekly-update-18</guid>
+            <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hashgreen updates on: Recapping the CAT standard upgrade and Hashgreen's actions.]]></description>
+            <content:encoded><![CDATA[<p><img src="./assets/banner.png" alt="banner"/></p><p>Hello Chia holders and Hashgreen&#x27;s friends, welcome back to another Hashgreen&#x27;s weekly update.
+Last week, there was a bit of turmoil after <a href="https://www.chia.net">Chia</a> posted an announcement in their <a href="https://twitter.com/chia_project/status/1551615648404422656?s=20&amp;t=BPFATPgoK1yx8eETSe_VVQ">Twitter</a>, stating that the <a href="https://chialisp.com/docs/puzzles/cats/">Chia Asset Token (CAT)</a> standard will be upgraded and CAT1 will be officially end-of-life (EOL) and replaced with CAT2. </p><p>In weekly update #18, we&#x27;re going to tell you about this incident, explaining what were the actions that we took in response to CAT2 standard and how <a href="https://hash.green/">Hashgreen DEX</a>&#x27;s approach enforces trading security.</p><h3>Timeline of Chia&#x27;s actions</h3><blockquote><ins>Jul 26, 2022</ins> upgrading the CAT standard<br/><ins>Jul 26, 2022</ins> around 10am PDT (after block height 2,311,760) CAT1 EOL<br/><ins>Jul 27, 2022</ins> v1.5.0 live<br/><ins>Jul 28, 2022</ins> blog post updated<br/><ins>Jul 30, 2022</ins> CAT1 vulnerability explained</blockquote><h3>What happened?</h3><p>Within a few days, Chia continued to release a series of updates and announcements, finishing upgrading the CAT standard, bringing v1.5.0 live, and explaining what exactly was the vulnerability of CAT1 standard coin after the upgrade was finalized.
+Details are included in their <a href="https://t.co/yEvX2e9RBC">blog post</a>.</p><p>Luckily, this &quot;Cat Bleed&quot; was never exploited, confirmed by Chia&#x27;s team.
+The concern was raised by <a href="https://www.trailofbits.com/">Trail of Bits</a>, a security auditor which helps Chia to audit, addressing &quot;a potential class of vulnerabilities that led the team to uncover a security vulnerability with CAT1&quot;.
+To summarize it, the issue was a potential vulnerability that could be exploited by anyone to print as many fake CATs as they want.
+Chia later released <a href="https://t.co/jbCSJKwpCO">a technical article</a> explaining the vulnerability they uncovered for CAT1.</p><p>Chia also suggested actions for users and CAT issuers to follow in order to move forward from the EOL to CAT2.
+Users are advised to download 1.5.0 client, cancel their offers, check their CAT1 balance, and wait for the airdrop of CAT2 from issuers.
+CAT issuers are provided with an official tool for the re-issuance.</p><h3>Actions for Hashgreen</h3><blockquote><ins>Jul 26, 2022</ins> halting all trading activities<br/><ins>Jul 27, 2022</ins> reminding users to keep up-to-date<br/><ins>Jul 27, 2022</ins> Chia’s official wallet and API trading back in our DEX<br/><ins>Jul 28, 2022</ins> trade resumed as issuers re-issuing their tokens</blockquote><p>Hashgreen were able to react after the news came out on July 26th.
+We quickly took actions, incorporating frontend, backend, and operations to adapt to the change.
+We halted all CAT trading activities and offer uploading from our API and <a href="https://twitter.com/HashgreenLabs/status/1552110066677202944?s=20&amp;t=jyVNiZ91VcNkR3lIv3tB8w">tweeted the information</a> to the public, reminding users and token issuers what they should do and be aware of about the upgrade.
+Before the release of <a href="https://github.com/Chia-Network/chia-blockchain/releases/tag/1.5.0">Chia Blockchain 1.5.0</a>, we had also hidden all the CAT1 markets to prepare for CAT2&#x27;s data migration from <a href="https://www.taildatabase.com/">TAIL Database</a>.</p><p>To prevent any exploit from happening, Chia suggested users to cancel offers that have been uploaded or shared on the internet, especially those providing XCH for CAT1s.
+With our approach of <a href="https://docs.hash.green/blog/2022/01/29/introducing-hashgreen-dex#:~:text=a%20download%2Dfree,guaranteed%20by%20chialisp.">aggregating offers</a>, you don&#x27;t have to cancel offers that you uploaded to our DEX since, essentially, no one will be able to take down any of it once all the trading activities are halted. </p><p>Our team were able to upgrade Hashgreen DEX and resume all the trading activities hereafter as the CAT issuers continued re-issuing their coins.
+Once again, if you are a trader, we recommend you to update to v1.5.0 as soon as possible and please beware that CAT1 is no longer acknowledged by Chia&#x27;s wallet. </p><p>:::info
+Please beware that CAT2 has a different asset ID than its CAT1 version.
+:::</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Weekly Update #17]]></title>
             <link>https://docs.hash.green/blog/weekly-update-17</link>
