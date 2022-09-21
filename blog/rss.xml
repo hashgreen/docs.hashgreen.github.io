@@ -4,9 +4,16 @@
         <title>Hashgreen Blog</title>
         <link>https://docs.hash.green/blog</link>
         <description>Hashgreen Blog</description>
-        <lastBuildDate>Thu, 04 Aug 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Picturing the Future Development in Chia: A Trusted Gateway System]]></title>
+            <link>https://docs.hash.green/blog/blog-1-a-trusted-gateway-system</link>
+            <guid>/blog-1-a-trusted-gateway-system</guid>
+            <pubDate>Wed, 21 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[We introduce what we envision for the future development in Chia, i.e. a lightly trusted gateway system that could improve scalability and responsiveness.]]></description>
+        </item>
         <item>
             <title><![CDATA[Weekly Update #18]]></title>
             <link>https://docs.hash.green/blog/weekly-update-18</link>

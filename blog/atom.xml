@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.hash.green/blog</id>
     <title>Hashgreen Blog</title>
-    <updated>2022-08-04T00:00:00.000Z</updated>
+    <updated>2022-09-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.hash.green/blog"/>
     <subtitle>Hashgreen Blog</subtitle>
     <icon>https://docs.hash.green/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Picturing the Future Development in Chia: A Trusted Gateway System]]></title>
+        <id>/blog-1-a-trusted-gateway-system</id>
+        <link href="https://docs.hash.green/blog/blog-1-a-trusted-gateway-system"/>
+        <updated>2022-09-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We introduce what we envision for the future development in Chia, i.e. a lightly trusted gateway system that could improve scalability and responsiveness.]]></summary>
+        <author>
+            <name>J.</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekly Update #18]]></title>
         <id>/weekly-update-18</id>
