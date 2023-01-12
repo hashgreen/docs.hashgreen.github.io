@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[6411],{4572:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/computer-system-design","name":"computer system design","count":1,"permalink":"/blog/tags/computer-system-design"}')}}]);

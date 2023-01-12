@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[1882],{6523:function(s){s.exports=JSON.parse('{"label":"market statistics","permalink":"/blog/tags/market-statistics","allTagsPath":"/blog/tags","count":3}')}}]);

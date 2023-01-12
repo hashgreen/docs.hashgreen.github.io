@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[1345],{7191:function(t){t.exports=JSON.parse('{"label":"nft","permalink":"/zh-Hant/blog/tags/nft","allTagsPath":"/zh-Hant/blog/tags","count":1}')}}]);

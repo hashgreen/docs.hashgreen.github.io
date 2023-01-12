@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[7219],{3028:function(e){e.exports=JSON.parse('{"permalink":"/zh-Hant/blog/tags/mit","page":1,"postsPerPage":10,"totalPages":3,"totalCount":21,"nextPage":"/zh-Hant/blog/tags/mit/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

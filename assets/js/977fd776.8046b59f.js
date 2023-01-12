@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[444],{8430:function(s){s.exports=JSON.parse('{"label":"chialisp","permalink":"/blog/tags/chialisp","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[3418],{4488:function(e){e.exports=JSON.parse('{"label":"computer system design","permalink":"/zh-Hant/blog/tags/computer-system-design","allTagsPath":"/zh-Hant/blog/tags","count":1}')}}]);

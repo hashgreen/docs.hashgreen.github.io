@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[6017],{4513:function(a){a.exports=JSON.parse('{"label":"trivia","permalink":"/zh-Hant/blog/tags/trivia","allTagsPath":"/zh-Hant/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[6679],{7051:function(e){e.exports=JSON.parse('{"label":"wallet integration","permalink":"/blog/tags/wallet-integration","allTagsPath":"/blog/tags","count":2}')}}]);

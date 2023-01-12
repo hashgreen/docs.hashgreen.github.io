@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[2016],{5781:function(t){t.exports=JSON.parse('{"label":"market statistics","permalink":"/zh-Hant/blog/tags/market-statistics","allTagsPath":"/zh-Hant/blog/tags","count":3}')}}]);
