@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Hashgreen Blog</title>
-        <link>https://uat-docs.hash.green/zh-Hant/blog</link>
+        <link>https://docs.hash.green/zh-Hant/blog</link>
         <description>Hashgreen Blog</description>
         <lastBuildDate>Wed, 21 Sep 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>zh-Hant</language>
         <item>
             <title><![CDATA[Picturing the Future Development in Chia: A Trusted Gateway System]]></title>
-            <link>https://uat-docs.hash.green/zh-Hant/blog/blog-1-a-trusted-gateway-system</link>
+            <link>https://docs.hash.green/zh-Hant/blog/blog-1-a-trusted-gateway-system</link>
             <guid>/blog-1-a-trusted-gateway-system</guid>
             <pubDate>Wed, 21 Sep 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[We introduce what we envision for the future development in Chia, i.e. a lightly trusted gateway system that could improve scalability and responsiveness.]]></description>
@@ -55,7 +55,7 @@ We believe that such a gateway system could be favorable to the users and develo
         </item>
         <item>
             <title><![CDATA[Weekly Update #18]]></title>
-            <link>https://uat-docs.hash.green/zh-Hant/blog/weekly-update-18</link>
+            <link>https://docs.hash.green/zh-Hant/blog/weekly-update-18</link>
             <guid>/weekly-update-18</guid>
             <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Hashgreen updates on: Recapping the CAT standard upgrade and Hashgreen's actions.]]></description>
@@ -84,7 +84,7 @@ Once again, if you are a trader, we recommend you to update to v1.5.0 as soon as
         </item>
         <item>
             <title><![CDATA[Weekly Update #17]]></title>
-            <link>https://uat-docs.hash.green/zh-Hant/blog/weekly-update-17</link>
+            <link>https://docs.hash.green/zh-Hant/blog/weekly-update-17</link>
             <guid>/weekly-update-17</guid>
             <pubDate>Mon, 25 Jul 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Hashgreen updates on: tutorial pop-up page, my orders pagination, adjusting landing page on the mobile, and update for amm.]]></description>
@@ -116,7 +116,7 @@ By the time "Mainnet Launch" gets going, it will be available to everyone, accom
         </item>
         <item>
             <title><![CDATA[Weekly Update #16]]></title>
-            <link>https://uat-docs.hash.green/zh-Hant/blog/weekly-update-16</link>
+            <link>https://docs.hash.green/zh-Hant/blog/weekly-update-16</link>
             <guid>/weekly-update-16</guid>
             <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Hashgreen updates on: trading and swapping explained]]></description>
@@ -145,7 +145,7 @@ However, trading with order books usually requires deeper understanding of the d
         </item>
         <item>
             <title><![CDATA[Weekly Update #15]]></title>
-            <link>https://uat-docs.hash.green/zh-Hant/blog/weekly-update-15</link>
+            <link>https://docs.hash.green/zh-Hant/blog/weekly-update-15</link>
             <guid>/weekly-update-15</guid>
             <pubDate>Tue, 05 Jul 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Hashgreen updates on: a more satisfying experience using mobiles to visit Hashgreen DEX.]]></description>
@@ -168,7 +168,7 @@ Although desktop users form the predominant part of our users, there is still de
         </item>
         <item>
             <title><![CDATA[Weekly Update #14]]></title>
-            <link>https://uat-docs.hash.green/zh-Hant/blog/weekly-update-14</link>
+            <link>https://docs.hash.green/zh-Hant/blog/weekly-update-14</link>
             <guid>/weekly-update-14</guid>
             <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Hashgreen updates on: i18n project for DEX.]]></description>
@@ -187,7 +187,7 @@ Below are general explanations to the process of translation:</p><ol><li><strong
         </item>
         <item>
             <title><![CDATA[Weekly Update #13]]></title>
-            <link>https://uat-docs.hash.green/zh-Hant/blog/weekly-update-13</link>
+            <link>https://docs.hash.green/zh-Hant/blog/weekly-update-13</link>
             <guid>/weekly-update-13</guid>
             <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Hashgreen updates on: live market trading chart and language switch option.]]></description>
@@ -211,7 +211,7 @@ If you're interested and would like to help, please visit our <a href="https://d
         </item>
         <item>
             <title><![CDATA[Weekly Update #12]]></title>
-            <link>https://uat-docs.hash.green/zh-Hant/blog/weekly-update-12</link>
+            <link>https://docs.hash.green/zh-Hant/blog/weekly-update-12</link>
             <guid>/weekly-update-12</guid>
             <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Hashgreen updates on: recap of AMA at Chia in Chia and committed and uncommitted offers.]]></description>
@@ -235,7 +235,7 @@ With such method, creators or project owners can have their NFTs connected with 
         </item>
         <item>
             <title><![CDATA[Weekly Update #11]]></title>
-            <link>https://uat-docs.hash.green/zh-Hant/blog/weekly-update-11</link>
+            <link>https://docs.hash.green/zh-Hant/blog/weekly-update-11</link>
             <guid>/weekly-update-11</guid>
             <pubDate>Tue, 07 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Hashgreen updates on: AMM's design features, i18n for DEX, and scam alert]]></description>
@@ -263,7 +263,7 @@ We are currently working on adding warning messages in the DEX to help you and p
         </item>
         <item>
             <title><![CDATA[Weekly Update #10]]></title>
-            <link>https://uat-docs.hash.green/zh-Hant/blog/weekly-update-10</link>
+            <link>https://docs.hash.green/zh-Hant/blog/weekly-update-10</link>
             <guid>/weekly-update-10</guid>
             <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Hashgreen updates on: User ID and user feedback.]]></description>
@@ -289,7 +289,7 @@ If you're interested in helping us improving our product, drop a message in our 
         </item>
         <item>
             <title><![CDATA[Weekly Update #9]]></title>
-            <link>https://uat-docs.hash.green/zh-Hant/blog/weekly-update-9</link>
+            <link>https://docs.hash.green/zh-Hant/blog/weekly-update-9</link>
             <guid>/weekly-update-9</guid>
             <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Hashgreen updates on: Goby wallet integration, and syncing order history.]]></description>
@@ -309,7 +309,7 @@ It seems like the majority of you are all hyped up about the integration of Goby
         </item>
         <item>
             <title><![CDATA[Weekly Update #8]]></title>
-            <link>https://uat-docs.hash.green/zh-Hant/blog/weekly-update-8</link>
+            <link>https://docs.hash.green/zh-Hant/blog/weekly-update-8</link>
             <guid>/weekly-update-8</guid>
             <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Hashgreen updates on: light/dark scheme and Goby wallet integration on the testnet]]></description>
@@ -329,7 +329,7 @@ After you've tried it out at the testnet, please visit the page, vote, and leave
         </item>
         <item>
             <title><![CDATA[Weekly Update #7]]></title>
-            <link>https://uat-docs.hash.green/zh-Hant/blog/weekly-update-7</link>
+            <link>https://docs.hash.green/zh-Hant/blog/weekly-update-7</link>
             <guid>/weekly-update-7</guid>
             <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Hashgreen updates on: brand new landing page, and live market status.]]></description>
@@ -350,7 +350,7 @@ In light of the situation that we decided to prioritize and focus on the major u
         </item>
         <item>
             <title><![CDATA[Weekly Update #6]]></title>
-            <link>https://uat-docs.hash.green/zh-Hant/blog/weekly-update-6</link>
+            <link>https://docs.hash.green/zh-Hant/blog/weekly-update-6</link>
             <guid>/weekly-update-6</guid>
             <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Hashgreen updates on: multi-offer upload, new design of my orders, order book UI, and product facelift.]]></description>
@@ -375,7 +375,7 @@ We are working hard on the new landing page besides a few more integrations!</p>
         </item>
         <item>
             <title><![CDATA[Best Chia Projects Bootstrapped on Hashgreen DEX]]></title>
-            <link>https://uat-docs.hash.green/zh-Hant/blog/airdrop-on-hashgreen-dex</link>
+            <link>https://docs.hash.green/zh-Hant/blog/airdrop-on-hashgreen-dex</link>
             <guid>/airdrop-on-hashgreen-dex</guid>
             <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Here are some best projects on Chia Blockchain that you should follow. Hashgreen DEX is proud to have worked with these cool projects!]]></description>
@@ -418,7 +418,7 @@ We believe it is an exciting exploration scrolling through the different categor
         </item>
         <item>
             <title><![CDATA[Weekly Update #5]]></title>
-            <link>https://uat-docs.hash.green/zh-Hant/blog/weekly-update-5</link>
+            <link>https://docs.hash.green/zh-Hant/blog/weekly-update-5</link>
             <guid>/weekly-update-5</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Hashgreen updates on: fee UX, market selection UI, and market stat API]]></description>
@@ -447,7 +447,7 @@ As time goes on, we will gradually implement more standard functionalities in cu
         </item>
         <item>
             <title><![CDATA[Weekly Update #4]]></title>
-            <link>https://uat-docs.hash.green/zh-Hant/blog/weekly-update-4</link>
+            <link>https://docs.hash.green/zh-Hant/blog/weekly-update-4</link>
             <guid>/weekly-update-4</guid>
             <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Hashgreen updates on: price/trade API, fee support, product facelift, and massive token listing]]></description>
@@ -473,7 +473,7 @@ You can even star your favorite CATs!</p></li></ul>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Weekly Update #3]]></title>
-            <link>https://uat-docs.hash.green/zh-Hant/blog/2022/03/02/weekly-update</link>
+            <link>https://docs.hash.green/zh-Hant/blog/2022/03/02/weekly-update</link>
             <guid>/2022/03/02/weekly-update</guid>
             <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Hashgreen updates on: community airdrop tools, integration with taildatabase & Goby, and AMM]]></description>
@@ -502,7 +502,7 @@ This transaction micro-service will not only deterministically make sure a trans
         </item>
         <item>
             <title><![CDATA[Weekly Update #2]]></title>
-            <link>https://uat-docs.hash.green/zh-Hant/blog/2022/02/14/weekly-update</link>
+            <link>https://docs.hash.green/zh-Hant/blog/2022/02/14/weekly-update</link>
             <guid>/2022/02/14/weekly-update</guid>
             <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Hashgreen updates on: USD quotes in API, i18n inclusion of Chinese and Spanish, and AMM initial discussion]]></description>
@@ -532,7 +532,7 @@ There are some pretty important implications translating everything from account
         </item>
         <item>
             <title><![CDATA[Weekly Update #1]]></title>
-            <link>https://uat-docs.hash.green/zh-Hant/blog/2022/02/07/weekly-update</link>
+            <link>https://docs.hash.green/zh-Hant/blog/2022/02/07/weekly-update</link>
             <guid>/2022/02/07/weekly-update</guid>
             <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Hashgreen updates on: UI and trading API release]]></description>
@@ -563,7 +563,7 @@ All of these are still in development, but we want to stay tuned for more exciti
         </item>
         <item>
             <title><![CDATA[Introducing the Hashgreen DEX]]></title>
-            <link>https://uat-docs.hash.green/zh-Hant/blog/2022/01/29/introducing-hashgreen-dex</link>
+            <link>https://docs.hash.green/zh-Hant/blog/2022/01/29/introducing-hashgreen-dex</link>
             <guid>/2022/01/29/introducing-hashgreen-dex</guid>
             <pubDate>Sat, 29 Jan 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Hashgreen blog on: DEX release and philosophy]]></description>

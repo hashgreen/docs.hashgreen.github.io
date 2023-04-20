@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://uat-docs.hash.green/blog</id>
+    <id>https://docs.hash.green/blog</id>
     <title>Hashgreen Blog</title>
     <updated>2022-09-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://uat-docs.hash.green/blog"/>
+    <link rel="alternate" href="https://docs.hash.green/blog"/>
     <subtitle>Hashgreen Blog</subtitle>
-    <icon>https://uat-docs.hash.green/img/favicon.ico</icon>
+    <icon>https://docs.hash.green/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Picturing the Future Development in Chia: A Trusted Gateway System]]></title>
         <id>/blog-1-a-trusted-gateway-system</id>
-        <link href="https://uat-docs.hash.green/blog/blog-1-a-trusted-gateway-system"/>
+        <link href="https://docs.hash.green/blog/blog-1-a-trusted-gateway-system"/>
         <updated>2022-09-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[We introduce what we envision for the future development in Chia, i.e. a lightly trusted gateway system that could improve scalability and responsiveness.]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" alt="banner" src="/assets/images/Blog_banner_01-c61d60ef4718dc25ddf020859f2e877a.png" width="1200" height="628" class="img_ev3q"></p><p>Hello friends and fellows of Chia, welcome back to another post from <a href="https://www.hashgreen.net/" target="_blank" rel="noopener noreferrer">Hashgreen</a>!
@@ -58,7 +58,7 @@ We believe that such a gateway system could be favorable to the users and develo
     <entry>
         <title type="html"><![CDATA[Weekly Update #18]]></title>
         <id>/weekly-update-18</id>
-        <link href="https://uat-docs.hash.green/blog/weekly-update-18"/>
+        <link href="https://docs.hash.green/blog/weekly-update-18"/>
         <updated>2022-08-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hashgreen updates on: Recapping the CAT standard upgrade and Hashgreen's actions.]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" alt="banner" src="/assets/images/banner-22edec63c8afe067739b2cac0c7aec7b.png" width="1200" height="628" class="img_ev3q"></p><p>Hello Chia holders and Hashgreen's friends, welcome back to another Hashgreen's weekly update.
@@ -90,7 +90,7 @@ Once again, if you are a trader, we recommend you to update to v1.5.0 as soon as
     <entry>
         <title type="html"><![CDATA[Weekly Update #17]]></title>
         <id>/weekly-update-17</id>
-        <link href="https://uat-docs.hash.green/blog/weekly-update-17"/>
+        <link href="https://docs.hash.green/blog/weekly-update-17"/>
         <updated>2022-07-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hashgreen updates on: tutorial pop-up page, my orders pagination, adjusting landing page on the mobile, and update for amm.]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" alt="banner" src="/assets/images/banner-10382f9e8b3555994deea03bbdb105d2.png" width="1200" height="628" class="img_ev3q"></p><p>🌱 Hello Chia holders and Hashgreen readers, welcome back to another weekly update.
@@ -125,7 +125,7 @@ By the time "Mainnet Launch" gets going, it will be available to everyone, accom
     <entry>
         <title type="html"><![CDATA[Weekly Update #16]]></title>
         <id>/weekly-update-16</id>
-        <link href="https://uat-docs.hash.green/blog/weekly-update-16"/>
+        <link href="https://docs.hash.green/blog/weekly-update-16"/>
         <updated>2022-07-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hashgreen updates on: trading and swapping explained]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" alt="banner" src="/assets/images/banner-f3847ab4001030e8424685c97a23efa7.png" width="1200" height="628" class="img_ev3q"></p><p>Hello Hashgreen readers, welcome back to another week of Weekly Update! </p><p>Last week, we released an update targeting mobile device users and since then we've received some genuine feedback from <a href="https://www.reddit.com/r/chia/comments/vsjeyk/hashgreen_weekly_update_15_07062022_a_more/?utm_source=share&amp;utm_medium=web2x&amp;context=3" target="_blank" rel="noopener noreferrer">reddit</a>.
@@ -157,7 +157,7 @@ However, trading with order books usually requires deeper understanding of the d
     <entry>
         <title type="html"><![CDATA[Weekly Update #15]]></title>
         <id>/weekly-update-15</id>
-        <link href="https://uat-docs.hash.green/blog/weekly-update-15"/>
+        <link href="https://docs.hash.green/blog/weekly-update-15"/>
         <updated>2022-07-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hashgreen updates on: a more satisfying experience using mobiles to visit Hashgreen DEX.]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" alt="banner" src="/assets/images/banner-34e87e42d39d66a0d3b613ae3a5a99e0.png" width="1200" height="628" class="img_ev3q"></p><p>🌱 Welcome back to another Weekly Update from Hashgreen, Chia's holders and friends! In the previous update, we talked about the updates and guidelines for the translation project of Hashgreen DEX (you are always welcome to contact us via <a href="https://discord.com/invite/KXvqv6cwAk" target="_blank" rel="noopener noreferrer">Discord</a> or <a href="https://twitter.com/HashgreenLabs" target="_blank" rel="noopener noreferrer">Twitter</a> to suggest a language or offer to help with the translation), and this week we have brought you an important update especially for mobile device users.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-been-done">What's Been Done<a class="hash-link" href="#whats-been-done" title="Direct link to heading">​</a></h2><ul><li><p>Thanks to the help from our translators, German has been updated to our DEX!</p></li><li><p>Users can now enjoy a better and smoother experience using mobile devices to visit <a href="https://hash.green/" target="_blank" rel="noopener noreferrer">Hashgreen DEX</a>! What are the differences that you see? 🧐 Tell us your <a href="https://discord.com/invite/KXvqv6cwAk" target="_blank" rel="noopener noreferrer">feedback</a>!</p></li></ul><figcaption align="center"><b>Figure: Try it out for yourself on the phone! </b></figcaption><div style="text-align:center"><img loading="lazy" src="/assets/images/phone-ba56389bb4a8b28e437df73cc90f0e22.png" width="250 px" class="img_ev3q"></div><ul><li>Our team has updated the interface of our DEX to make it render well with mobile devices, granting users an optimal experience no matter which mobile devices you are on. </li></ul><div class="theme-admonition theme-admonition-tip alert alert--success admonition_LlT9"><div class="admonitionHeading_tbUL"><span class="admonitionIcon_kALy"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span><mdxadmonitiontitle><strong>Which devices do you use the most to visit our DEX? 💻 or 📱?</strong></mdxadmonitiontitle></div><div class="admonitionContent_S0QG"><p>When would you use your phone to check our DEX instead of your computer?</p></div></div><ul><li><p>We did observe that there are a number of users who would visit our DEX on their phones from time to time and we believed that there indeed is some latent demand or at least some inherent tendency for the users to visit our website while they are checking their phones.
@@ -183,7 +183,7 @@ Although desktop users form the predominant part of our users, there is still de
     <entry>
         <title type="html"><![CDATA[Weekly Update #14]]></title>
         <id>/weekly-update-14</id>
-        <link href="https://uat-docs.hash.green/blog/weekly-update-14"/>
+        <link href="https://docs.hash.green/blog/weekly-update-14"/>
         <updated>2022-06-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hashgreen updates on: i18n project for DEX.]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" alt="banner" src="/assets/images/banner-f2ae973b774f5c4415e76813fb0ddafd.png" width="1200" height="628" class="img_ev3q"></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-been-done">What's Been Done<a class="hash-link" href="#whats-been-done" title="Direct link to heading">​</a></h2><p>Welcome back to another weekly update for <a href="https://www.hashgreen.net/" target="_blank" rel="noopener noreferrer">Hashgreen</a>! It's been a great week continuously developing our product, and this week we are going to give you an update on the translation project for <a href="https://hash.green/" target="_blank" rel="noopener noreferrer">Hashgreen DEX</a> and also some random updates of Hashgreen! </p><ul><li><p>Hashgreen members were having a monthly meet last Friday! Monthly meets are one of the great ways to keep everyone connected, especially when the members are all working remotely. </p></li><li><p>We are going to have an office space in Taipei! </p></li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="updates-on-the-i18n-project-for-hashgreen-dex">Updates on the i18n project for Hashgreen DEX<a class="hash-link" href="#updates-on-the-i18n-project-for-hashgreen-dex" title="Direct link to heading">​</a></h3><ul><li><p>Last week, we began the translation project for Hashgreen DEX using <a href="https://crowdin.com/" target="_blank" rel="noopener noreferrer">Crowdin</a>, a cloud-based localization management platform that enables both collaborative translation and management, and we're lucky to have multiple volunteer translators to help us with our product.
@@ -205,7 +205,7 @@ Below are general explanations to the process of translation:</p><ol><li><strong
     <entry>
         <title type="html"><![CDATA[Weekly Update #13]]></title>
         <id>/weekly-update-13</id>
-        <link href="https://uat-docs.hash.green/blog/weekly-update-13"/>
+        <link href="https://docs.hash.green/blog/weekly-update-13"/>
         <updated>2022-06-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hashgreen updates on: live market trading chart and language switch option.]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" alt="banner" src="/assets/images/banner-56cbd7cb5c870041b4771cb1e24493d4.png" width="1200" height="628" class="img_ev3q"></p><p>Good morning Chia 🌱, Chia's holders and Hashgreen's readers! We are back again for another weekly update. We are excited to share with you some updates for <a href="https://hash.green/" target="_blank" rel="noopener noreferrer">Hashgreen DEX</a>, including the live market trading chart and the language support that comes back. Without further ado, let's get started!</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-been-done">What's Been Done<a class="hash-link" href="#whats-been-done" title="Direct link to heading">​</a></h2><ul><li>Live market trading chart is now officially released in <a href="https://hash.green/" target="_blank" rel="noopener noreferrer">Hashgreen DEX</a>!
@@ -232,7 +232,7 @@ If you're interested and would like to help, please visit our <a href="https://d
     <entry>
         <title type="html"><![CDATA[Weekly Update #12]]></title>
         <id>/weekly-update-12</id>
-        <link href="https://uat-docs.hash.green/blog/weekly-update-12"/>
+        <link href="https://docs.hash.green/blog/weekly-update-12"/>
         <updated>2022-06-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hashgreen updates on: recap of AMA at Chia in Chia and committed and uncommitted offers.]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" alt="banner" src="/assets/images/banner-511601d67dda558be9f41d193963306e.png" width="1200" height="628" class="img_ev3q"></p><p>Welcome back to another Hashgreen's weekly update! Previously on <a href="https://docs.hash.green/blog/weekly-update-11" target="_blank" rel="noopener noreferrer">Weekly Update #11</a> we talked about the design features that began to take shape for the AMM, hankering for the best outcome to our users and to the ecosystem. We also announced a few updates and a call for volunteer translators. If you are willing to help with the translation, please visit our <a href="https://discord.com/invite/KXvqv6cwAk" target="_blank" rel="noopener noreferrer">Discord</a>.</p><p>This week we will be taking you through two topics: the AMA we attended earlier this June and our thought and expectation for offer2 according to the feedback from the community.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="hashgreen-at-chia-in-chinas-ama">Hashgreen at Chia in China's AMA<a class="hash-link" href="#hashgreen-at-chia-in-chinas-ama" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-chia-is-trying-to-solve-with-its-nft-standards">What Chia is trying to solve with its NFT standards<a class="hash-link" href="#what-chia-is-trying-to-solve-with-its-nft-standards" title="Direct link to heading">​</a></h3><p>In the AMA held by Chia in China, we introduced our products and talked about offer features and Chia's NFT standards. Below are three factors we mentioned about Chia's NFT during the AMA, namely what Chia is trying to solve and realize with its NFT standards.</p><ul><li><p><strong>Autonomous offer trading: to trade without authorization from a third-party platform.</strong>  </p><p>Chia does not need you to authorize a third-party platform to operate for you.
@@ -259,7 +259,7 @@ With such method, creators or project owners can have their NFTs connected with 
     <entry>
         <title type="html"><![CDATA[Weekly Update #11]]></title>
         <id>/weekly-update-11</id>
-        <link href="https://uat-docs.hash.green/blog/weekly-update-11"/>
+        <link href="https://docs.hash.green/blog/weekly-update-11"/>
         <updated>2022-06-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hashgreen updates on: AMM's design features, i18n for DEX, and scam alert]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" alt="banner" src="/assets/images/banner-6c646e3cc1688dc9cb0be8e49f5ff20a.png" width="1200" height="628" class="img_ev3q"></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-been-done">What's Been Done<a class="hash-link" href="#whats-been-done" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="amms-design-features-explained">AMM's Design Features Explained<a class="hash-link" href="#amms-design-features-explained" title="Direct link to heading">​</a></h3><p>Hi Chia holders! We at Hashgreen have some updates on the long awaited AMM! Over the past weeks, while we have implemented basic building blocks for the smart schemes, more importantly we are composing these blocks to ensure users have great experience trading and participating in our ecosystem.</p><ul><li><p><strong>A sustainable token and distribution scheme for the Hashgreen ecosystem:</strong>  </p><p>We want to bake our tokenomics directly into our AMM by highly incentivizing the first batch of supporters for their rapid adoption. On the other hand, we are considering allowing not only liquidity providers to earn (liquidity mining), but also protocol owners — each and every one who owns the Hashgreen token — to earn.
@@ -290,7 +290,7 @@ We are currently working on adding warning messages in the DEX to help you and p
     <entry>
         <title type="html"><![CDATA[Weekly Update #10]]></title>
         <id>/weekly-update-10</id>
-        <link href="https://uat-docs.hash.green/blog/weekly-update-10"/>
+        <link href="https://docs.hash.green/blog/weekly-update-10"/>
         <updated>2022-05-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hashgreen updates on: User ID and user feedback.]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" alt="banner" src="/assets/images/banner-57bda5d9b15bb43bd2f5ba05b01b1e3b.png" width="1200" height="628" class="img_ev3q"></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-been-done">What's Been Done<a class="hash-link" href="#whats-been-done" title="Direct link to heading">​</a></h2><p>Over the past week, we've had <a href="https://www.goby.app/" target="_blank" rel="noopener noreferrer">Goby</a> successfully integrated into <a href="http://hash.green/" target="_blank" rel="noopener noreferrer">Hashgreen DEX</a> and we've also shared an interesting discovery made possible via a tool we developed that analyzes and reifies blockchain activities on Chia.
@@ -319,7 +319,7 @@ If you're interested in helping us improving our product, drop a message in our 
     <entry>
         <title type="html"><![CDATA[Weekly Update #9]]></title>
         <id>/weekly-update-9</id>
-        <link href="https://uat-docs.hash.green/blog/weekly-update-9"/>
+        <link href="https://docs.hash.green/blog/weekly-update-9"/>
         <updated>2022-05-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hashgreen updates on: Goby wallet integration, and syncing order history.]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" alt="banner" src="/assets/images/banner-dd92bae17a4cc8600e4c72dc75b02b48.png" width="1200" height="628" class="img_ev3q"></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-been-done">What's Been Done<a class="hash-link" href="#whats-been-done" title="Direct link to heading">​</a></h2><ul><li><p><a href="https://www.goby.app/" target="_blank" rel="noopener noreferrer">Goby wallet</a> has officially been integrated into <a href="http://hash.green/" target="_blank" rel="noopener noreferrer">Hashgreen DEX</a>! 🤩
@@ -342,7 +342,7 @@ It seems like the majority of you are all hyped up about the integration of Goby
     <entry>
         <title type="html"><![CDATA[Weekly Update #8]]></title>
         <id>/weekly-update-8</id>
-        <link href="https://uat-docs.hash.green/blog/weekly-update-8"/>
+        <link href="https://docs.hash.green/blog/weekly-update-8"/>
         <updated>2022-05-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hashgreen updates on: light/dark scheme and Goby wallet integration on the testnet]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" alt="banner" src="/assets/images/banner-aef29a44cb065c721f88e01aa2f06f88.png" width="1200" height="628" class="img_ev3q"></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-been-done">What's Been Done<a class="hash-link" href="#whats-been-done" title="Direct link to heading">​</a></h2><ul><li><p>Our team has finally released an official update for the light/dark scheme in <a href="https://hash.green/" target="_blank" rel="noopener noreferrer">Hashgreen DEX</a> after fixing some bugs that occurred when switching between schemes.
@@ -365,7 +365,7 @@ After you've tried it out at the testnet, please visit the page, vote, and leave
     <entry>
         <title type="html"><![CDATA[Weekly Update #7]]></title>
         <id>/weekly-update-7</id>
-        <link href="https://uat-docs.hash.green/blog/weekly-update-7"/>
+        <link href="https://docs.hash.green/blog/weekly-update-7"/>
         <updated>2022-05-09T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hashgreen updates on: brand new landing page, and live market status.]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" alt="banner" src="/assets/images/banner-15a2db9ac67600131cb4064d534c6ff7.png" width="1200" height="628" class="img_ev3q"></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-been-done">What's Been Done<a class="hash-link" href="#whats-been-done" title="Direct link to heading">​</a></h2><ul><li>Our team has released a brand new landing page of <a href="https://hash.green/" target="_blank" rel="noopener noreferrer">Hashgreen DEX</a>.
@@ -389,7 +389,7 @@ In light of the situation that we decided to prioritize and focus on the major u
     <entry>
         <title type="html"><![CDATA[Weekly Update #6]]></title>
         <id>/weekly-update-6</id>
-        <link href="https://uat-docs.hash.green/blog/weekly-update-6"/>
+        <link href="https://docs.hash.green/blog/weekly-update-6"/>
         <updated>2022-04-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hashgreen updates on: multi-offer upload, new design of my orders, order book UI, and product facelift.]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" alt="banner" src="/assets/images/banner-60abeddd586b1c21cded3e452b882c96.jpg" width="1200" height="628" class="img_ev3q"></p><p>Hello to all the readers, who have stayed with <a href="https://www.hashgreen.net/" target="_blank" rel="noopener noreferrer">Hashgreen</a> along the way! </p><p>My name is James, the newly hired community lead of Hashgreen. I will take charge of the Weekly Update series and carry on providing information for future product updates. Harry will still publish tech blogs from time to time, leading you through finer details of Blockchain technology related to Chia and Hashgreen.</p><p>Over the month, the Chia community seems to have been less active than before, yet with the recent release of <a href="https://github.com/Chia-Network/chia-blockchain/releases/tag/1.3.4" target="_blank" rel="noopener noreferrer">Chia Blockchain 1.3.4</a>. As for us, we have made a few updates on <a href="https://hash.green/" target="_blank" rel="noopener noreferrer">Hashgreen DEX</a>. </p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-been-done">What's Been Done<a class="hash-link" href="#whats-been-done" title="Direct link to heading">​</a></h2><ul><li>Over the past few weeks, our DEX development team has implemented multi-offer upload into the web interface to make the process of transactions quicker and easier!
@@ -417,7 +417,7 @@ We are working hard on the new landing page besides a few more integrations!</p>
     <entry>
         <title type="html"><![CDATA[Best Chia Projects Bootstrapped on Hashgreen DEX]]></title>
         <id>/airdrop-on-hashgreen-dex</id>
-        <link href="https://uat-docs.hash.green/blog/airdrop-on-hashgreen-dex"/>
+        <link href="https://docs.hash.green/blog/airdrop-on-hashgreen-dex"/>
         <updated>2022-04-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Here are some best projects on Chia Blockchain that you should follow. Hashgreen DEX is proud to have worked with these cool projects!]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" alt="banner" src="/assets/images/banner-213a8721b0e96e400e92ee4d97293a0c.jpg" width="1200" height="628" class="img_ev3q"></p><p>Over the months, since the release of <a href="https://www.chia.net/2021/11/15/the-CATs-out-of-the-bag.en.html" target="_blank" rel="noopener noreferrer">Chia Asset Tokens (CATs)</a> and <a href="https://www.chia.net/2022/01/12/chia-offers-are-here.en.html" target="_blank" rel="noopener noreferrer">Offer Files</a>, we have seen a whole herd of CATs.
@@ -463,7 +463,7 @@ We believe it is an exciting exploration scrolling through the different categor
     <entry>
         <title type="html"><![CDATA[Weekly Update #5]]></title>
         <id>/weekly-update-5</id>
-        <link href="https://uat-docs.hash.green/blog/weekly-update-5"/>
+        <link href="https://docs.hash.green/blog/weekly-update-5"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hashgreen updates on: fee UX, market selection UI, and market stat API]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" alt="banner" src="/assets/images/banner-fcb757022fab48b224fb681136d5cbeb.jpg" width="1200" height="628" class="img_ev3q"></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-been-done">What's Been Done<a class="hash-link" href="#whats-been-done" title="Direct link to heading">​</a></h2><ul><li>Over the past weeks, fees on the Chia Blockchain seems to be here to stay.
@@ -495,7 +495,7 @@ As time goes on, we will gradually implement more standard functionalities in cu
     <entry>
         <title type="html"><![CDATA[Weekly Update #4]]></title>
         <id>/weekly-update-4</id>
-        <link href="https://uat-docs.hash.green/blog/weekly-update-4"/>
+        <link href="https://docs.hash.green/blog/weekly-update-4"/>
         <updated>2022-03-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hashgreen updates on: price/trade API, fee support, product facelift, and massive token listing]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" alt="banner" src="/assets/images/banner-ad2b466268de7ca15e61434f6b78ec22.jpg" width="1200" height="628" class="img_ev3q"></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-been-done">What's Been Done<a class="hash-link" href="#whats-been-done" title="Direct link to heading">​</a></h2><ul><li><p>Over the weeks, we have been observing some users to submit deliberately mispriced orders and as a result, displacing the price reported in <a href="/dex/trading-api#get-trade-history">market statistics</a>.
@@ -524,7 +524,7 @@ You can even star your favorite CATs!</p></li></ul>]]></content>
     <entry>
         <title type="html"><![CDATA[Weekly Update #3]]></title>
         <id>/2022/03/02/weekly-update</id>
-        <link href="https://uat-docs.hash.green/blog/2022/03/02/weekly-update"/>
+        <link href="https://docs.hash.green/blog/2022/03/02/weekly-update"/>
         <updated>2022-03-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hashgreen updates on: community airdrop tools, integration with taildatabase & Goby, and AMM]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" alt="banner" src="/assets/images/banner-e17ecfec82d849519ed8249c6ac089e7.jpg" width="2400" height="1256" class="img_ev3q"></p><p>This is a long overdue update to the community!
@@ -556,7 +556,7 @@ This transaction micro-service will not only deterministically make sure a trans
     <entry>
         <title type="html"><![CDATA[Weekly Update #2]]></title>
         <id>/2022/02/14/weekly-update</id>
-        <link href="https://uat-docs.hash.green/blog/2022/02/14/weekly-update"/>
+        <link href="https://docs.hash.green/blog/2022/02/14/weekly-update"/>
         <updated>2022-02-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hashgreen updates on: USD quotes in API, i18n inclusion of Chinese and Spanish, and AMM initial discussion]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" alt="banner" src="/assets/images/banner-786d75fb5d6d19f6ad2a0f01ef611621.jpg" width="1200" height="628" class="img_ev3q"></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-been-done">What's Been Done<a class="hash-link" href="#whats-been-done" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="api-access">API Access<a class="hash-link" href="#api-access" title="Direct link to heading">​</a></h3><p><a href="/dex/trading-api">Trading API</a> has been the biggest update for the week.
@@ -589,7 +589,7 @@ There are some pretty important implications translating everything from account
     <entry>
         <title type="html"><![CDATA[Weekly Update #1]]></title>
         <id>/2022/02/07/weekly-update</id>
-        <link href="https://uat-docs.hash.green/blog/2022/02/07/weekly-update"/>
+        <link href="https://docs.hash.green/blog/2022/02/07/weekly-update"/>
         <updated>2022-02-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hashgreen updates on: UI and trading API release]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" alt="banner" src="/assets/images/banner-7931ab0aee3516088892671941d4a827.jpg" width="1200" height="628" class="img_ev3q"></p><p>Happy lunar new year everyone!
@@ -623,7 +623,7 @@ All of these are still in development, but we want to stay tuned for more exciti
     <entry>
         <title type="html"><![CDATA[Introducing the Hashgreen DEX]]></title>
         <id>/2022/01/29/introducing-hashgreen-dex</id>
-        <link href="https://uat-docs.hash.green/blog/2022/01/29/introducing-hashgreen-dex"/>
+        <link href="https://docs.hash.green/blog/2022/01/29/introducing-hashgreen-dex"/>
         <updated>2022-01-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hashgreen blog on: DEX release and philosophy]]></summary>
         <content type="html"><![CDATA[<p>Hashgreen successfully released a decentralized exchange on Jan 12, 2022, in a joint live event with <a href="https://chia.net" target="_blank" rel="noopener noreferrer">Chia Network</a>.
