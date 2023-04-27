@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[753],{1941:function(e){e.exports=JSON.parse('{"label":"hoogii","permalink":"/blog/tags/hoogii","allTagsPath":"/blog/tags","count":1}')}}]);

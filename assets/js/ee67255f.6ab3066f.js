@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[635],{712:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/cryptocurrency/page/2","page":2,"postsPerPage":10,"totalPages":3,"totalCount":22,"previousPage":"/blog/tags/cryptocurrency","nextPage":"/blog/tags/cryptocurrency/page/3","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

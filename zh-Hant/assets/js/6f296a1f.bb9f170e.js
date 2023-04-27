@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[1661],{6591:function(e){e.exports=JSON.parse('{"label":"cryptocurrency","permalink":"/zh-Hant/blog/tags/cryptocurrency","allTagsPath":"/zh-Hant/blog/tags","count":22}')}}]);
