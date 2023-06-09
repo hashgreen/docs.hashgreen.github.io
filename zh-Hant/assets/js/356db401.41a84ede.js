@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[4620],{9559:function(e){e.exports=JSON.parse('{"label":"hashgreen","permalink":"/zh-Hant/blog/tags/hashgreen","allTagsPath":"/zh-Hant/blog/tags","count":22}')}}]);
