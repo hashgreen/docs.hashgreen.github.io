@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[2563],{8434:function(e){e.exports=JSON.parse('{"permalink":"/zh-Hant/blog/tags/blockchain/page/2","page":2,"postsPerPage":10,"totalPages":3,"totalCount":25,"previousPage":"/zh-Hant/blog/tags/blockchain","nextPage":"/zh-Hant/blog/tags/blockchain/page/3","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

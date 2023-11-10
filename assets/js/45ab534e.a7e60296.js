@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[8509],{2654:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/chia/page/3","page":3,"postsPerPage":10,"totalPages":3,"totalCount":24,"previousPage":"/blog/tags/chia/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

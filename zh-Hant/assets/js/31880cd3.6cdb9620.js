@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[5899],{5447:function(a){a.exports=JSON.parse('{"label":"chia","permalink":"/zh-Hant/blog/tags/chia","allTagsPath":"/zh-Hant/blog/tags","count":25}')}}]);
